@@ -1,0 +1,10 @@
+.color{
+    background-color: rgb(156, 156, 169);
+    min-height:60vh!important;
+    margin-top:-10;
+    border-radius: 10px;
+   
+}
+.text-center {
+    color: white;
+}
